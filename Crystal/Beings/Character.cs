@@ -18,6 +18,8 @@ namespace Crystal
 
         public int Experience { get; set; }
 
+        public int Hit_Points { get; set; }
+
 
         public int Strength { get; set; }        
 

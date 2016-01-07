@@ -11,6 +11,10 @@ namespace Crystal
 
         public string Description { get; set; }
 
+        public int Health_Mod { get; set; }
+
+        public int Stamina_Mod { get; set; }
+
         public int Strength_Mod { get; set; }
 
         public int Constitution_Mod { get; set; }

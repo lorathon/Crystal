@@ -42,7 +42,11 @@ namespace Crystal
 
         private void check_level()
         {
+<<<<<<< HEAD
             // This will check if a character has increased a level
+=======
+
+>>>>>>> origin/1st-Branch-Test
 
         }
 
@@ -209,6 +213,7 @@ namespace Crystal
         #region Speed
 
         public int Speed { get; set; }
+<<<<<<< HEAD
 
         public int Speed_Temp { get; set; }
 
@@ -255,7 +260,6 @@ namespace Crystal
         }
 
         #endregion
-
 
         public int Strength { get; set; }        
 

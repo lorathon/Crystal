@@ -31,6 +31,9 @@ namespace Crystal
 
         public int Charisma { get; set; }
 
+
+        public string Test { get; set; }
+
         
 
 
